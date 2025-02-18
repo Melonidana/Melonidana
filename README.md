@@ -10,4 +10,4 @@
 
 ###
 
-<p align="left">📚 I'm currently working on creating reusable templates on Github <br> 🐛Creating Bugs since 2024 <br> 🎲 Fun fact: Always picking Yoshi on Mario Kart </p>
+<p align="left">📚 I'm currently working on creating reusable templates on Github <br> 🐛Creating Isuuees since 2023 <br> 🎲 Fun fact: Always picking Yoshi on Mario Kart </p>

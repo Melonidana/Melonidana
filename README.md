@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Giordana and I'm an Agile Facilitator from Munich</p>
+<p align="left">My name is Giordana and I'm an Agile Facilitator from Munich 🥨</p>
 
 ###
 

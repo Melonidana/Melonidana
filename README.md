@@ -10,9 +10,9 @@
 
 ###
 
-<p align="left">📚 I'm currently working on creating reusable templates on Github <br> 🐛Creating Issues since 2023 <br> 🎲 Fun fact: Always picking Yoshi on Mario Kart </p>
+<p align="left">📚 Currently working on creating reusable templates on Github <br> 🐛Creating Issues since 2023 <br> 🎲 Always picking Yoshi on Mario Kart </p>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />

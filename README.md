@@ -12,7 +12,11 @@
 
 <p align="left">📚 Currently working on creating reusable templates on Github <br> 🐛Creating Issues since 2023 <br> 🎲 Always picking Yoshi on Mario Kart </p>
 
-<div align="center">
+### 
+
+<h2 align="left">Here is what I can use </h1>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
